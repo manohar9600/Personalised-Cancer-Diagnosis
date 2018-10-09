@@ -1,0 +1,17 @@
+*.png
+
+*.tex
+
+Amazon Food Reviews/\.ipynb_checkpoints/
+
+Amazon Food Reviews/test\.ipynb
+
+test\.ipynb
+
+\.ipynb_checkpoints/
+
+CustomModules/__pycache__/
+
+Saved/
+
+Data/
